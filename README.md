@@ -1,5 +1,18 @@
-# 💫 About Me:
-## 👋 Hi, I'm Anish Bharat<br><br>💻 Building scalable full-stack applications with React.js, Node.js, NestJS, TypeScript, and MongoDB.<br><br>🚀 Interested in backend engineering, API design, authentication, OAuth, and scalable web architecture.<br><br>🤝 Open to collaborating on open-source and full-stack development projects.<br><br>🌱 Currently exploring system design, Docker, cloud deployment, and software architecture.<br><br>💬 Ask me about React, Node.js, NestJS, TypeScript, REST APIs, MongoDB, JWT, and OAuth.<br><br>⚡ I enjoy building software that solves real-world problems.
+# 💫 About Me
+
+## 👋 Hi, I'm Anish Bharat
+
+💻 Building scalable full-stack applications with React.js, Node.js, NestJS, TypeScript, and MongoDB.
+
+🚀 Interested in backend engineering, API design, authentication, OAuth, and scalable web architecture.
+
+🤝 Open to collaborating on open-source and full-stack development projects.
+
+🌱 Currently exploring system design, Docker, cloud deployment, and software architecture.
+
+💬 Ask me about React, Node.js, NestJS, TypeScript, REST APIs, MongoDB, JWT, and OAuth.
+
+⚡ I enjoy building software that solves real-world problems.
 
 
 ## 🌐 Socials:
